@@ -1,0 +1,7 @@
+Class Demo {
+	
+	void sl () {
+		
+	}
+	
+}
